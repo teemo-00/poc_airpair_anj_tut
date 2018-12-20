@@ -1,0 +1,15 @@
+{
+  "name": "airpair_tut",
+  "version": "1.0.0",
+  "description": "AngularJS Tutorial 1 ====================",
+  "main": "expserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roelie Viviers <prviviers@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "jshint": "^2.9.4"
+  }
+}
